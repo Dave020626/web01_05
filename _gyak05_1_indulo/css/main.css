@@ -1,0 +1,24 @@
+body {
+	background-color: #ff9;
+}
+
+div {
+	width: 600px;
+	min-height: 40px;
+}
+
+label select, label input, label span, label tesxt {
+	float: right;
+	padding: 2px;
+}
+
+textarea {
+	width: 350px;
+	float: right;
+}
+
+input[type="submit"] {
+	float: right;
+	clear: both;
+	margin: 2px 0px;
+}
